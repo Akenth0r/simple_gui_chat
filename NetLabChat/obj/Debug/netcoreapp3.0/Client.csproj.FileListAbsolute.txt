@@ -1,0 +1,11 @@
+C:\Users\Waldemar\source\repos\NetLabChat\NetLabChat\bin\Debug\netcoreapp3.0\Client.exe
+C:\Users\Waldemar\source\repos\NetLabChat\NetLabChat\bin\Debug\netcoreapp3.0\Client.deps.json
+C:\Users\Waldemar\source\repos\NetLabChat\NetLabChat\bin\Debug\netcoreapp3.0\Client.runtimeconfig.json
+C:\Users\Waldemar\source\repos\NetLabChat\NetLabChat\bin\Debug\netcoreapp3.0\Client.runtimeconfig.dev.json
+C:\Users\Waldemar\source\repos\NetLabChat\NetLabChat\bin\Debug\netcoreapp3.0\Client.dll
+C:\Users\Waldemar\source\repos\NetLabChat\NetLabChat\bin\Debug\netcoreapp3.0\Client.pdb
+C:\Users\Waldemar\source\repos\NetLabChat\NetLabChat\obj\Debug\netcoreapp3.0\Client.csprojAssemblyReference.cache
+C:\Users\Waldemar\source\repos\NetLabChat\NetLabChat\obj\Debug\netcoreapp3.0\Client.AssemblyInfoInputs.cache
+C:\Users\Waldemar\source\repos\NetLabChat\NetLabChat\obj\Debug\netcoreapp3.0\Client.AssemblyInfo.cs
+C:\Users\Waldemar\source\repos\NetLabChat\NetLabChat\obj\Debug\netcoreapp3.0\Client.dll
+C:\Users\Waldemar\source\repos\NetLabChat\NetLabChat\obj\Debug\netcoreapp3.0\Client.pdb

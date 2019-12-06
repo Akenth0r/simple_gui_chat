@@ -1,0 +1,8 @@
+C:\Users\Waldemar\source\repos\NetLabChat\Server\bin\Debug\Server.exe.config
+C:\Users\Waldemar\source\repos\NetLabChat\Server\bin\Debug\Server.exe
+C:\Users\Waldemar\source\repos\NetLabChat\Server\bin\Debug\Server.pdb
+C:\Users\Waldemar\source\repos\NetLabChat\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Waldemar\source\repos\NetLabChat\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\Waldemar\source\repos\NetLabChat\Server\obj\Debug\Server.exe
+C:\Users\Waldemar\source\repos\NetLabChat\Server\obj\Debug\Server.pdb
+C:\Users\Waldemar\source\repos\NetLabChat\Server\obj\Debug\Server.fServer.resources
